@@ -1,0 +1,11 @@
+.btn.btn-toggle {
+	padding: 1rem 2rem;
+	border-width: 1px;
+	border-color: #d3d3d3;
+}
+
+.btn.btn-toggle[aria-pressed="true"] {
+	border-color: #4d4d4d;
+	background-color: var(--c-blue-hover);
+	color: #fff;
+}

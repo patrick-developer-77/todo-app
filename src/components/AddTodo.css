@@ -1,0 +1,31 @@
+.add-todo {
+	margin-bottom: 1.5rem;
+	display: flex;
+	justify-content: space-between;
+	gap: 1rem;
+}
+
+.add-todo label {
+	width: 100%;
+}
+
+.add-todo input {
+	width: 100%;
+	padding: 1rem .75rem;
+	border: 0;
+	border-radius: .25rem;
+	font-size: 1.125rem;
+}
+
+.add-todo input:focus-visible {
+	outline: var(--c-blue) auto 1px;
+}
+
+.add-todo button {
+	background: var(--c-orange);
+}
+
+.add-todo .btn {
+	padding-inline: 1rem;
+	border-radius: .5rem;
+}

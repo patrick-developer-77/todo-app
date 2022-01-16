@@ -1,0 +1,14 @@
+.navbar {
+	background-color: var(--c-dark-blue);
+	color: #fff;
+	padding: 1rem .75rem;
+	text-align: center;
+	margin-bottom: 1.5rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navbar h1 {
+	font-weight: 400;
+}

@@ -1,0 +1,101 @@
+[{
+	"id": "todo-1",
+	"name": "Pick up milk from Stewart's",
+	"complete": false,
+	"createdDate": "Jan 11, 2022"
+}, {
+	"id": "todo-2",
+	"name": "Pat's Hockey, Thursday 9:45pm vs Ice Bats",
+	"complete": false,
+	"createdDate": "Jan 1, 2022"
+}, {
+	"id": "todo-3",
+	"name": "Lexie Field Hockey, Thursday 6:30pm",
+	"complete": false,
+	"createdDate": "Dec 10, 2021"
+}, {
+	"id": "todo-4",
+	"name": "Lexie Odyssey of the Mind, Thursday after school til 4:30pm",
+	"complete": false,
+	"createdDate": "Sept 6, 2021"
+}, {
+	"id": "todo-5",
+	"name": "Change light bulbs",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-6",
+	"name": "Go to Store",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-7",
+	"name": "Fill gas tank",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-8",
+	"name": "Change linens",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-9",
+	"name": "Rake leaves",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-10",
+	"name": "Bake Cookies",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-11",
+	"name": "Take nap",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-12",
+	"name": "Read book",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-13",
+	"name": "Exercise",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-14",
+	"name": "Give dog a bath",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-15",
+	"name": "Do laundry",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-16",
+	"name": "Vacuum floor",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-17",
+	"name": "Feed cat",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-18",
+	"name": "Change light bulbs",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-19",
+	"name": "Go to Store",
+	"complete": false,
+	"createdDate": ""
+}, {
+	"id": "todo-20",
+	"name": "Fill gas tank",
+	"complete": false,
+	"createdDate": ""
+}]
