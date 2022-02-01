@@ -65,7 +65,6 @@ function App( props ) {
       return task
     })
     setTasks(updatedTasks)
-
   }
 
   return (
